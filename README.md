@@ -1,5 +1,5 @@
 <h2 align="left">
-   👍🏾 Ola pessoal chamo me SOARES JOÃO  MACIE  tenho ambicoes na area de tech e pretendo criar solucoes tecnologicas para o futuro 
+   👍🏾 Ola pessoal chamo me SOARES JOÃO  MACIE  tenho ambicoes na area de tech e pretendo criar solucoes tecnologicas para o futuro.
 </h2>
 
 ###
